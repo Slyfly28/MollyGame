@@ -21,6 +21,7 @@
     <sprite>sprites\sprite8</sprite>
     <sprite>sprites\sprite9</sprite>
     <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\spr_mascot</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_pink</background>
@@ -46,6 +47,7 @@
       <object>objects\obj_eyes1</object>
     </objects>
     <object>objects\obj_bodyframe</object>
+    <object>objects\obj_mascot</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_mainmenu</room>
