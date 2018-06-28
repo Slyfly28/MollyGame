@@ -52,16 +52,20 @@
   </views>
   <instances>
     <instance objName="obj_character" x="64" y="96" name="inst_C2BA84C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_btn_sk1" x="544" y="192" name="inst_FF2A5EAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_btn_sk2" x="768" y="192" name="inst_18CF6A29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_btn_sk3" x="992" y="192" name="inst_CEF487D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk1" x="1088" y="512" name="inst_FF2A5EAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk2" x="512" y="192" name="inst_18CF6A29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk3" x="800" y="352" name="inst_CEF487D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_eb1" x="70" y="65" name="inst_B3F3B440" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_eyes1" x="75" y="100" name="inst_49A4FF82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bodyframe" x="58" y="64" name="inst_694CCC26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_btn_sk4" x="1216" y="192" name="inst_E1BA815F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_btn_sk5" x="544" y="352" name="inst_435F8A3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_btn_sk6" x="768" y="352" name="inst_83FF15DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_mascot" x="1344" y="256" name="inst_3DD12EB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk4" x="1088" y="192" name="inst_E1BA815F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk5" x="512" y="512" name="inst_435F8A3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk6" x="1088" y="352" name="inst_83FF15DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_mascot" x="1280" y="96" name="inst_3DD12EB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk7" x="800" y="192" name="inst_70481AEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk8" x="800" y="512" name="inst_2EF99FFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk9" x="512" y="352" name="inst_D29737E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skinframe" x="288" y="0" name="inst_8307BAB9" locked="0" code="" scaleX="1.39999997615814" scaleY="1.33333337306976" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

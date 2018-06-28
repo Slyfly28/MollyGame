@@ -17,11 +17,12 @@
       <sprite>sprites\spr_btn_sk4</sprite>
       <sprite>sprites\spr_btn_sk5</sprite>
       <sprite>sprites\spr_btn_sk6</sprite>
+      <sprite>sprites\spr_btn_sk7</sprite>
+      <sprite>sprites\spr_btn_sk8</sprite>
+      <sprite>sprites\spr_btn_sk9</sprite>
     </sprites>
-    <sprite>sprites\sprite8</sprite>
-    <sprite>sprites\sprite9</sprite>
-    <sprite>sprites\sprite12</sprite>
     <sprite>sprites\spr_mascot</sprite>
+    <sprite>sprites\spr_skinframe</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_pink</background>
@@ -36,6 +37,9 @@
       <object>objects\obj_btn_sk4</object>
       <object>objects\obj_btn_sk5</object>
       <object>objects\obj_btn_sk6</object>
+      <object>objects\obj_btn_sk7</object>
+      <object>objects\obj_btn_sk8</object>
+      <object>objects\obj_btn_sk9</object>
     </objects>
     <objects name="obj_hair">
       <object>objects\obj_hair1</object>
@@ -48,6 +52,7 @@
     </objects>
     <object>objects\obj_bodyframe</object>
     <object>objects\obj_mascot</object>
+    <object>objects\obj_skinframe</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_mainmenu</room>
