@@ -15,7 +15,12 @@
       <sprite>sprites\spr_btn_sk3</sprite>
       <sprite>sprites\spr_btn_sk2</sprite>
       <sprite>sprites\spr_btn_sk4</sprite>
+      <sprite>sprites\spr_btn_sk5</sprite>
+      <sprite>sprites\spr_btn_sk6</sprite>
     </sprites>
+    <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\sprite9</sprite>
+    <sprite>sprites\sprite12</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_pink</background>
@@ -28,6 +33,8 @@
       <object>objects\obj_btn_sk2</object>
       <object>objects\obj_btn_sk3</object>
       <object>objects\obj_btn_sk4</object>
+      <object>objects\obj_btn_sk5</object>
+      <object>objects\obj_btn_sk6</object>
     </objects>
     <objects name="obj_hair">
       <object>objects\obj_hair1</object>

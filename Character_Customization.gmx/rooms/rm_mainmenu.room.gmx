@@ -59,6 +59,8 @@
     <instance objName="obj_eyes1" x="75" y="100" name="inst_49A4FF82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bodyframe" x="58" y="64" name="inst_694CCC26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_btn_sk4" x="1216" y="192" name="inst_E1BA815F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk5" x="544" y="352" name="inst_435F8A3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_btn_sk6" x="768" y="352" name="inst_83FF15DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
